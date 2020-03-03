@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-MPP Candidate at the Harris School of Public Policy at the University of Chicago
+Combating environmental injustice with rigorous analytics and activism to create equitable and sustainable solutions.

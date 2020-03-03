@@ -27,7 +27,7 @@ Work experience
   * University of Chicago
   * Replicated statistical analysis of prior literature and reconciliated results with novel lab data 
   * Created and updated data visualizations including paper's key and index plots 
-  * Installed a switch in a very messy script of over 1000 lines, allowing it to generate output statistics and plots for various threshold cutoff values
+  * Installed a switch in a messy script of over 1000 lines, allowing it to generate output statistics and plots for various threshold cutoff values
   * Troubleshot automating lintr to run on Git staged files on Windows
   
 * 07/2017 - 08/2018 : Case Manager
@@ -51,7 +51,7 @@ Skills
 * Programming fundamentals and web scraping in Python (pandas, beautiful soup) 
 * Basic machine learning in R  
 * GIS visualization and analysis in R (sf), QGIS, and GeoDa 
-* Causal analysis, Bayesian statistics, program evaluation, multi-level regression modeling
+* Causal analysis, program evaluation, Bayesian hierarchical models
 * Languages:
   * Japanese (intermediate) 
   
