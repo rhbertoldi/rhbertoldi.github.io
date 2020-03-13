@@ -1,8 +1,9 @@
 ---
-title: "Predicting PM2.5 in Cook County"
+title: "Predicting Levels of Ambient Fine Particulate using a Neural Net"
+excerpt: "<br/><img src='/images/diagram.gif'><br/><img src='/images/pm25_plot.gif'>"
 collection: portfolio
 ---
-A common problem in geophysical research is the lack of sufficient ground station data for remote regions of the world. In such situations, simulation without adequate initial parameters results in air quality predictions that contradict both local ground level observations and visual inspection of atmospheric satellite imagery. As a solution to this, we suggest incorporating simple ground level data such as temperature, geographical parameters such as latitude and longitude, temporal information, and satellite observations into a deep learning architecture that will predict ground level PM2.5 concentrations.
+Air pollution has become an increasingly salient public health concern, given its association with lung cancer, cardiovascular disease, respiratory disease, and metabolic disease. Globally, the distribution of PM2.5 monitoring technologies are not equally distributed, contributing to PM2.5 data scarcity. Insufficient data can substantially limit government capacities for mitigating PM2.5 related mortality and public health risks. As a solution to this, we incorporate simple, globally accessible, ground level data such as temperature, geographical parameters such as latitude and longitude, and satellite observations into a deep learning architecture that predicts out-of-sample, ground level PM2.5 concentrations. Predictions are made using a deep learning model for three cities within the continental United States with varying efficacy. The learning algorithm works best for areas with spatially homogeneous air quality and low climactic variability.
 
 [See project](https://github.com/ML-final-project/predicting_pm2.5)
-
+[See paper](http://rhbertoldi.github.io/files/ML_Final_Paper.pdf)
