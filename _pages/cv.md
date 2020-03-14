@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Public Policy, University of Chicago, Harris School of Public Policy, 2020 (expected)
+  * Certificate in Energy and Environmental Policy (in progress) 
 * B.A. in Science and Technology Studies, University of California, Davis, 2016
 
 Work experience
