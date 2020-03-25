@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+* 02/2020 - Present 
+  * Teaching assistant for Data and Programming for Public Policy I in R 
+  * Debugging prior problem set solutions, including trouble shooting external server issues   * Developing new course problem sets 
+  * Collaborating on effectively transitioning course to remote learning   
+  * Leading weekly office hours and responding to student queries remotely 
+  
 * 09/2019 - 12/2019: Coding Lab and R Bar Instructor
   * University of Chicago
   * Developed curriculum on the foundations of programming and data analysis in R 
@@ -48,11 +54,12 @@ Work experience
   
 Skills
 ======
-* Data management, visualization and analysis in R (tidyverse, ggplot2) 
-* Programming fundamentals and web scraping in Python (pandas, beautiful soup) 
+* Data management, visualization and analysis in R 
+* Programming fundamentals and web scraping in Python 
 * Basic machine learning in R  
-* GIS visualization and analysis in R (sf), QGIS, and GeoDa 
+* GIS visualization and analysis in R, QGIS, and GeoDa 
 * Causal analysis, program evaluation, Bayesian hierarchical models
+* In progress: longitudinal data analysis, spatial regression analysis
 * Languages:
   * Japanese (intermediate) 
   
