@@ -19,7 +19,8 @@ Work experience
 ======
 * 02/2020 - Present: Teaching assistant
   * Teaching assistant for Data and Programming for Public Policy I in R 
-  * Debugging prior problem set solutions, including trouble shooting external server issues   * Developing new course problem sets 
+  * Debugging prior problem set solutions, including trouble shooting external server issues
+  * Developing new course problem sets 
   * Collaborating on effectively transitioning course to remote learning   
   * Leading weekly office hours and responding to student queries remotely 
   
