@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](http://rhbertoldi.github.io/files/Resume-2020.pdf)
+
 Education
 ======
 * M.S. in Public Policy, University of Chicago, Harris School of Public Policy, 2020 
