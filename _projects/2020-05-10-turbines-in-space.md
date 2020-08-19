@@ -1,6 +1,6 @@
 ---
 title: "Measuring the Impacts of Income on Wind Turbine Locations"
-excerpt: "Analyzing the effects of median income on the number of wind turbines on the state and county level in the greater United States"
+excerpt: "Analyzing the effects of median income on wind turbine presence"
 collection: portfolio
 ---
 
