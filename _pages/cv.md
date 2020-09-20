@@ -35,10 +35,16 @@ Work experience
 
 * 07/2019 - 09/2019: Research Assistant
   * University of Chicago
-  * Replicated statistical analysis of prior literature and reconciliated results with novel lab data 
+  * Replicated statistical analysis of prior literature and reconciled results with novel lab data 
   * Created and updated data visualizations including paper's key and index plots 
   * Installed a switch in a messy script of over 1000 lines, allowing it to generate output statistics and plots for various threshold cutoff values
   * Troubleshot automating lintr to run on Git staged files on Windows
+
+* 03/2019 - 09/2019: Volunteer
+  * Chicago Community Bond Fund 
+  *	Created ETL processes to clean and merge FOIA requested Illinois jail data from 17 counties
+  * Identified and created trend plots and summary statistics for a report for Illinois bond reform advocates  
+
   
 * 09/2016 - 08/2018 : Case Manager
   * Atrium Experts 
@@ -59,8 +65,3 @@ Skills
 * Causal analysis, multivariate regression analysis, multi-level regression modeling, longitudinal data analysis, spatial regression analysis, program evaluation 
 * Languages:
   * Japanese (intermediate) 
-  
-Extra-Curriculars
-======
-* 10/2018 - 2/2020 : University of Chicago Public Policy Podcasts: Co-Creator of 'Kinda, Sorta, Brown'
-* 3/2019 - Present : Chicago Community Bond Fund Volunteer: Data Cleaning, Analysis and Visualization
