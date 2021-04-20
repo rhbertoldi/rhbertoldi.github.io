@@ -26,12 +26,12 @@ Work experience
 ======
 * 11/2020 - Present: Data & Impact Manager
   * Creates ETL processes to clean and manage program data
-  * Preforms data analytics for program evaluation and reporting
+  * Performs data analytics for program evaluation and reporting
   * Develops and measures program key performance indicators and equity metrics 
   
 * 02/2020 - 06/2020: Teaching assistant
   * University of Chicago
-  * Teaching assistant for Data and Programming for Public Policy I in R 
+  * Teaching assistant for Data and Programming for Public Policy in R 
   * Collaborating on effectively transitioning course to remote learning   
   
 * 09/2019 - 12/2019: Coding Lab and R Bar Instructor
