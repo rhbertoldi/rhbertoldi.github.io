@@ -9,22 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://rhbertoldi.github.io/files/Resume-2020.pdf)
+[Download CV](http://rhbertoldi.github.io/files/Resume-2021.pdf)
 
 Education
 ======
 * M.S. in Public Policy, University of Chicago, Harris School of Public Policy, 2020 
-  * Certificates in Data Analytics, Energy and Environmental Policy   
+  * Certificates in Data Analytics and Energy & Environmental Policy   
 * B.A. in Science and Technology Studies, University of California, Davis, 2016
+
+Skills
+======
+* R, Python, Stata, QGIS, GeoDa, Salesforce, Git
+* Causal analysis, multivariate regression analysis, multi-level regression modeling, longitudinal data analysis, spatial regression analysis, program evaluation 
 
 Work experience
 ======
+* 11/2020 - Present: Data & Impact Manager
+  * Creates ETL processes to clean and manage program data
+  * Preforms data analytics for program evaluation and reporting
+  * Develops and measures program key performance indicators and equity metrics 
+  
 * 02/2020 - 06/2020: Teaching assistant
+  * University of Chicago
   * Teaching assistant for Data and Programming for Public Policy I in R 
-  * Debugging prior problem set solutions, including trouble shooting external server issues
-  * Developing new course problem sets 
   * Collaborating on effectively transitioning course to remote learning   
-  * Leading weekly office hours, biweekly labs and responding to student queries remotely 
   
 * 09/2019 - 12/2019: Coding Lab and R Bar Instructor
   * University of Chicago
@@ -37,31 +45,21 @@ Work experience
   * University of Chicago
   * Replicated statistical analysis of prior literature and reconciled results with novel lab data 
   * Created and updated data visualizations including paper's key and index plots 
-  * Installed a switch in a messy script of over 1000 lines, allowing it to generate output statistics and plots for various threshold cutoff values
-  * Troubleshot automating lintr to run on Git staged files on Windows
+  * Expanded functionality of existing research code to generate output statistics and plots for various input thresholds 
 
 * 03/2019 - 09/2019: Volunteer
   * Chicago Community Bond Fund 
   *	Created ETL processes to clean and merge FOIA requested Illinois jail data from 17 counties
   * Identified and created trend plots and summary statistics for a report for Illinois bond reform advocates  
 
-  
-* 09/2016 - 08/2018 : Case Manager
-  * Atrium Experts 
-  * Managed attorney and expert witness business relations, including recruiting, scheduling, billing and invoicing 
-  * Executed initiatives including: Google AdWords, Quality Control and Feedback Surveys, New Employee Training, Email Marketing, Contracting, Vendor/Client Relations 
-  
-* 09/2015 : Research Assistant
-  * Smartstart Evaluation and Research 
-  * Conducted student surveys in Japanese at El Marino Language School to assess comparability in student practices of engagement 
-  * Compiled survey data in Excel 
-  
-Skills
+Projects
 ======
-* Data management, visualization and analysis, and basic machine learning in R 
-* Programming fundamentals and web scraping in Python 
-* GIS visualization and analysis in R, QGIS, and GeoDa
-* Stata
-* Causal analysis, multivariate regression analysis, multi-level regression modeling, longitudinal data analysis, spatial regression analysis, program evaluation 
-* Languages:
-  * Japanese (intermediate) 
+* Predicting Levels of Ambient Fine Particulate
+  * Built a neural network in Python using the Keras API to predict insufficient or missing PM2.5 data
+* Measuring the Impacts of Income on Wind Turbine Locations 
+  * Built a spatial lag regression model to analyze the effects of income on wind turbine locations in the U.S.
+* Visualizing Crime at Chicago Transit Authority (CTA) Stops 
+  * Animated crime incidents at CTA stops over time using R's sf package   
+* Web Scraping California Energy Production Data
+  * Web scraped California Energy Commission data to explore energy production in California
+
