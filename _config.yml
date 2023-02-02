@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rei H. Bertoldi"
 title_separator          : "-"
 name                     : &name "Rei Bertoldi"
-description              : &description "M.P.P. Candidate at the University of Chicago, Harris School of Public Policy"
+description              : &description "PhD Student at the University of British Columbia, Institute For Resources Environment And Sustainability"
 url                      : https://rhbertoldi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rhbertoldi.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Rei Bertoldi"
   avatar           : "bio_photo.jpg"
-  bio              : "M.P.P. Candidate at the <a style='color: black;' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a>"
-  location         : "Los Angeles, CA"
+  bio              : "PhD Student at the <a style='color: black;' href='https://ires.ubc.ca/'>Institute For Resources, Environment, And Sustainability</a>"
+  location         : "Vancouver, BC"
   employer         :
   pubmed           :
   googlescholar    :
